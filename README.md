@@ -3,9 +3,10 @@
 This is a responsive e-commerce frontend project built using React and Tailwind CSS. The project showcases a modern UI for an online shoe store with multiple features like product browsing, cart management, and user authentication (frontend-based).
 
 ## Live Demo
-https://idyllic-griffin-896839.netlify.app
+gordon-bros-frontend.vercel.app
 ## GitHub Repository
-https://github.com/surpalsinh22/gordon-bros-frontend.git
+https://github.com/surpalsinh22/gordon-bros-frontend
+
 ## Features
 
 - Responsive Navbar with search functionality
