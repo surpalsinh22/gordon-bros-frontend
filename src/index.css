@@ -10,9 +10,11 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-} */
+}
+
 /* index.css */
- body {
+
+body {
   margin: 0;
   font-family: sans-serif;
 }
@@ -29,8 +31,8 @@ code {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #10b981; /* green */
+  background-color: #10b981;
   color: white;
   font-size: 2rem;
   font-weight: bold;
-} 
+}
