@@ -27,14 +27,39 @@ https://github.com/surpalsinh22/gordon-bros-frontend.git
 
 ## Project Structure
 
-src/
-│
-├── components/      # Reusable components (Navbar, ProductCard)
-├── context/         # Context API (Auth, Cart, Search)
-├── pages/           # All pages (Home, About, Contact, Cart, etc.)
-├── datas/           # Static product data
-├── assets/          # Images and media
-└── App.jsx          # Main routing
+## Project Structure
+
+src
+
+components
+- Navbar.jsx
+- ProductCard.jsx
+- Footer.jsx
+
+context
+- AuthContext.jsx
+- CartContext.jsx
+- SearchContext.jsx
+
+pages
+- Home.jsx
+- About.jsx
+- Contact.jsx
+- Cart.jsx
+- Login.jsx
+- Signup.jsx
+- ProductDetails.jsx
+- Payment.jsx
+
+datas
+- products.js
+
+assets
+
+App.jsx
+main.jsx
+
+
 
 ## How to Run Locally
 
